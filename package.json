@@ -12,7 +12,7 @@
     "preview": "npx @cloudflare/next-on-pages && npx wrangler pages dev .vercel/output/static"
   },
   "dependencies": {
-    "next": "14.2.0",
+    "next": "15.5.18",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "@supabase/supabase-js": "^2.39.0",
